@@ -1,5 +1,5 @@
-Vaadin Spring Archetype
-=======================
+Vaadin Spring Kotlin Archetype
+==============================
 
 Summary
 -------
