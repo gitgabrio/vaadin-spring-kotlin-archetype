@@ -31,7 +31,7 @@ Create a project
         -Dversion=version \
         -DarchetypeRepository=http://gitgabrio.github.io/vaadin-spring-kotlin-archetype
 
-Note: The above command will bootstrap a project using the archetype published here: http://gitgabrio.github.io/vaadin-spring-archetype
+Note: The above command will bootstrap a project using the archetype published here: http://gitgabrio.github.io/vaadin-spring-kotlin-archetype
 
 Run the project
 ---------------
